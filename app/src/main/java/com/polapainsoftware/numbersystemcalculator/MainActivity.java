@@ -8,7 +8,7 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
     EditText dec, bin, oct, hex;
-    int test = 10;
+    int test = 11;
 
 
     @Override
