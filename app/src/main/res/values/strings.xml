@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Number System Calculator</string>
+    <string name="decimal">Decimal</string>
 </resources>
